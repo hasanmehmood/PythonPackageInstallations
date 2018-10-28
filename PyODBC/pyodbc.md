@@ -37,3 +37,7 @@ source ~/.bashrc
 
 **Now install PyODBC**
 `pip install pyodbc`
+
+**For More Information Please follow below link.**
+<https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-2017>
+
